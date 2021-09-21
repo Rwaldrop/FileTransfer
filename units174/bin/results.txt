@@ -1,0 +1,7 @@
+	* 138.09353
+	/ 0.0072414687
+Unknown unit 'farenheit'
+Error in 'tempF(45)tempC': Parse error
+	7.2222222
+	* 0.70710678
+	/ 1.4142136
